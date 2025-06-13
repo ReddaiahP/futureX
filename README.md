@@ -1,3 +1,4 @@
 # futureX
 
-Part of college college
+Part of college project
+
